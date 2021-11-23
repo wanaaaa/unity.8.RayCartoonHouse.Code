@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/WanPack/Scenes/prac.Line.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/WanPack/Scenes/WanCartoonHouse.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/WanPack/Scenes/menuScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
